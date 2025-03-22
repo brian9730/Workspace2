@@ -12,12 +12,3 @@
   
 # 2주차 - 자료구조와 알고리즘
 
-void main() {
-  var input = '2025-03-11'; // 입력값
-  var date = DateTime.parse(input); // 문자열을 DateTime 객체로 변환
-
-  print(date); // 출력: 2025-03-11 00:00:00.000
-  print(date.year); // 출력: 2025
-  print(date.month); // 출력: 3
-  print(date.day); // 출력: 11
-}
