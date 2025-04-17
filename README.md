@@ -91,7 +91,7 @@ A*B/C + D*E -F
 -데이터를 정해진 자료형으로 순서대로 저장<br>
 -저장된 여러 개의 데이터 중에 특정 데이터는 순차적으로 접근<br>
 -구현방식에 따라 순차리스트와 연결리스트로 나눔<br>
--입출력 형태에 따라 스텍, 큐, 데트로 나눔<br>
+-입출력 형태에 따라 스텍, 큐, 데크크로 나눔<br>
 
 •비선형 자료구조<br>
 -자료간의 관계가 1:N 또는 N:N<br>
@@ -125,20 +125,20 @@ a가 100번지에 위치
 •Stack⭐⭐⭐<br>
 -특징 : LIFO <br>
 -push()로 입력 pop()로 출력<br>
--활용 : 
+-활용 : 역순문자열, 시스템스텍, 수식의 괄호검사, 수식의 표기법(전위,후위,중위)<br>
 ![image](https://github.com/user-attachments/assets/018f0686-f286-479f-99dd-d59dad194a59) <br>
 
 
 •Queue⭐⭐⭐<br>
 -특징 : FIFO <br>
 -frontㅁㅁㅁㅁrear <br> 
--활용 : 
+-활용 : 디바이스 대기열(프린터), 시스템 서비스 대기열(프로세스)<br>
 ![image](https://github.com/user-attachments/assets/60efb573-9b70-42df-90d6-2eabc1f97e64) <br>
 
 
 •Deque⭐⭐⭐<br>
 -특징 : 양방향 큐 (양쪽 끝에서 자료 입출력이 동시에 발생하는 구조) <br>
--활용 :  
+-활용 :  스크롤, 문서편집기, 웹 방문기록
 ![image](https://github.com/user-attachments/assets/5c4f7b31-f858-4d22-9956-f9a22e74be02)<br>
 
 ---
