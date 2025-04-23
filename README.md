@@ -146,7 +146,7 @@ a가 100번지에 위치
 
 •Deque⭐⭐⭐<br>
 -특징 : 양방향 큐 (양쪽 끝에서 자료 입출력이 동시에 발생하는 구조) <br>
--활용 :  스크롤, 문서편집기, 웹 방문기록
+-활용 :  스크롤, 문서편집기, 웹 방문기록 <br>
 ![image](https://github.com/user-attachments/assets/5c4f7b31-f858-4d22-9956-f9a22e74be02)<br>
 
 [🪄참고 코드 보기](py/6week/6-1.py) 
