@@ -100,10 +100,10 @@ class PhoneBook: #클래스 생성
                 current = self.head #현재 노드를 헤드로 설정
 
                 while current :
-                        if currnet.data[0] > find_name: #현재 이름보다 찾을 이름이 작다면
+                        if current.data[0] > find_name: #현재 이름보다 찾을 이름이 작다면
                                 break;
                         if current.data[0] == find_name: #찾는 이름을 current가 가지고 있다면
-                                print('\n{}님의 전화번호는 {} 입니다.' .format(current.data[0], current.data[1]))
+                                print('\n{}님의 전화번호는 {} 입니다.'.format(current.data[0], current.data[1]))
                                 return current
                         current = current.next # current가 다음 노드의 주소를 가짐.
                 print("없는 이름입니다\n")
