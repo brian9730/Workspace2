@@ -350,7 +350,19 @@ A*B/C + D*E -F
 원소들 간에 1:多 관계를 가지는 비선형 자료구조
 원소들 간에 계층관계를 가지는 계층형 자료구조
 ```
-![image](https://github.com/user-attachments/assets/cdaf5e3e-31c4-4051-ad94-4395a9de57ab)
+
+### 트리구조
+![image](https://github.com/user-attachments/assets/811a67d7-dffc-4689-ac11-7ceeeec28578)
+
+•노드 : 트리의 원소 <br>
+->트리 A의 노드 - A,B,C,D,E,F,G,H,I,J,K,L <br>    
+•루트 노드 : 트리의 시작 노드 <br>      
+->트리 A의 루트노드 - A 
+      
+
+
+ 
+
 
 
 
