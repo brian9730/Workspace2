@@ -181,9 +181,12 @@ A*B/C + D*E -F
 ![image](https://github.com/user-attachments/assets/811a67d7-dffc-4689-ac11-7ceeeec28578)
 
 •노드 : 트리의 원소 <br>
-->트리 A의 노드 - A,B,C,D,E,F,G,H,I,J,K,L <br>    
+->트리 A의 노드 : A,B,C,D,E,F,G,H,I,J,K,L <br>    
 •루트 노드 : 트리의 시작 노드 <br>      
-->트리 A의 루트노드 - A 
+->트리 A의 루트노드 : A <br>
+•간선(edge) : 노드를 연결하는 선, 부모와 자식 노드를 연결 <br>
+•차수 <br>
+•높이 : 
       
 
 
